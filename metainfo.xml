@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="024658E7-3539-40B1-BDDB-2279197D5027" version="0" availableOffline="1">
+<presentation guid="1C50461B-7122-45CA-ACCC-8D2281C75413" version="0" availableOffline="1">
 	<info>
 		<title>WebSVF - Interactive Code Analysis - Presentation</title>
 		<description/>
 	</info>
-	<files index="id62" thumbnail="id117" totalSize="230850384">
+	<files index="id62" thumbnail="id117" totalSize="458601427">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
@@ -86,32 +86,32 @@
 		<file id="id82">data/img0.png</file>
 		<file id="id83">data/img1.png</file>
 		<file id="id84">data/img10.png</file>
-		<file id="id85">data/img11.jpg</file>
+		<file id="id85">data/img11.png</file>
 		<file id="id86">data/img12.png</file>
 		<file id="id87">data/img13.png</file>
 		<file id="id88">data/img14.gif</file>
 		<file id="id89">data/img15.jpg</file>
 		<file id="id90">data/img16.png</file>
-		<file id="id91">data/img17.jpg</file>
+		<file id="id91">data/img17.png</file>
 		<file id="id92">data/img18.png</file>
 		<file id="id93">data/img19.png</file>
 		<file id="id94">data/img2.png</file>
 		<file id="id95">data/img20.png</file>
 		<file id="id96">data/img21.png</file>
-		<file id="id97">data/img22.jpg</file>
-		<file id="id98">data/img23.jpg</file>
-		<file id="id99">data/img24.jpg</file>
-		<file id="id100">data/img25.jpg</file>
-		<file id="id101">data/img26.jpg</file>
-		<file id="id102">data/img27.jpg</file>
-		<file id="id103">data/img28.jpg</file>
-		<file id="id104">data/img29.jpg</file>
+		<file id="id97">data/img22.png</file>
+		<file id="id98">data/img23.png</file>
+		<file id="id99">data/img24.png</file>
+		<file id="id100">data/img25.png</file>
+		<file id="id101">data/img26.png</file>
+		<file id="id102">data/img27.png</file>
+		<file id="id103">data/img28.png</file>
+		<file id="id104">data/img29.png</file>
 		<file id="id105">data/img3.png</file>
-		<file id="id106">data/img30.jpg</file>
-		<file id="id107">data/img31.jpg</file>
-		<file id="id108">data/img32.jpg</file>
-		<file id="id109">data/img33.jpg</file>
-		<file id="id110">data/img34.jpg</file>
+		<file id="id106">data/img30.png</file>
+		<file id="id107">data/img31.png</file>
+		<file id="id108">data/img32.png</file>
+		<file id="id109">data/img33.png</file>
+		<file id="id110">data/img34.png</file>
 		<file id="id111">data/img4.png</file>
 		<file id="id112">data/img5.png</file>
 		<file id="id113">data/img6.png</file>
